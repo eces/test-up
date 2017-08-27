@@ -1,0 +1,9 @@
+{
+  "name": "test-up",
+  "profile": "test-up",
+  "regions": ["ap-northeast-2"],
+  "lambda": {
+    "memory": 256,
+    "timeout": 5
+  }
+}
